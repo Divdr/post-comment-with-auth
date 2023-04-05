@@ -1,4 +1,4 @@
-# Spiralyze Dev Test-2
+# Test Demo
 
 ### To install dependencies 
 ```sh
